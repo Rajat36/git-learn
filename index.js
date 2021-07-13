@@ -22,7 +22,3 @@ console.log(mininsec)
 }
 
   // console.log(a)
-
-  let a = 40
-
-  console.log(a)
