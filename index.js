@@ -13,12 +13,12 @@
 
 // console.log(language);
 
-const mininsec = 60;
-console.log(mininsec)
+// const mininsec = 60;
+// console.log(mininsec)
 
-{
-  let a = 20;
-  console.log(a)
-}
+// {
+//   let a = 20;
+//   console.log(a)
+// }
 
   // console.log(a)
